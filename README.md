@@ -40,6 +40,27 @@ Architecture documentation available in the official public overview repository.
 
 ---
 
+### SUPPRA (Production)
+
+AI-powered SaaS platform designed for building, managing and deploying intelligent chatbots across multiple communication channels.
+
+Core highlights:
+
+- Multi-tenant chatbot management architecture
+- Multi-model AI support (GPT and Gemini)
+- Knowledge base and personality configuration per bot
+- Visual conversational flow builder
+- Credit-based usage control system
+- Secure API Key management with environment separation
+- REST API and Web Widget integrations
+- Firestore-based scalable data architecture
+- Serverless orchestration with Firebase and Cloud Functions
+- Analytics, monitoring and conversation management tools
+
+Architecture documentation available in the official public overview repository.
+
+---
+
 ## 🏗 Technical Focus
 
 - Frontend: React-based applications

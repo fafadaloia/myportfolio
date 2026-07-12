@@ -2,7 +2,7 @@
 
 Personal portfolio showcasing production-ready AI SaaS systems, scalable architecture, and full-stack engineering projects.
 
-🔗 Live Portfolio: https://fafadaloia.github.io/portfolio
+🔗 Live Portfolio: https://fd-myportfolio.web.app
 
 ---
 

@@ -38,7 +38,6 @@ Core highlights:
 
 Architecture documentation available in the official public overview repository.
 
----
 
 ### SUPPRA (Production)
 
